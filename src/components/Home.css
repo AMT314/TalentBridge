@@ -1,0 +1,41 @@
+/* Home.css */
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .main-content {
+    margin-top: 20px;
+  }
+  
+  .intro, .features {
+    margin: 20px 0;
+  }
+  
+  .features ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .features li {
+    background-color: #eee;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+  }
+  
